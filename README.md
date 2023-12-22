@@ -1,4 +1,4 @@
-# <h1 align="center"> Instagram Clone Back-end Application </h1>
+# <h1 align="center"> Instagram Back-end Application </h1>
 ___ 
 <p align="center">
 <a href="Java url">
